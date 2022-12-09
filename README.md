@@ -1,2 +1,2 @@
 # website
-##Small personal site
+Small personal site
